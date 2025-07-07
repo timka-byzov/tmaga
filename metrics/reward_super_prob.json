@@ -1,0 +1,17 @@
+{
+    "default": {
+        "eval_loss": 1.114506721496582,
+        "eval_accuracy": 0.4654169360051713,
+        "eval_runtime": 46.1227,
+        "eval_samples_per_second": 37.639,
+        "eval_steps_per_second": 0.304
+    },
+    "final": {
+        "eval_loss": 0.8250414729118347,
+        "eval_accuracy": 0.5895281189398837,
+        "eval_runtime": 46.0345,
+        "eval_samples_per_second": 37.711,
+        "eval_steps_per_second": 0.304,
+        "epoch": 1.0
+    }
+}
