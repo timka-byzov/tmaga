@@ -13,4 +13,4 @@
 
 * Текущая версия ноутбука использует только CPU и может запускаться в локальном python-окружении. 
 
-* Проект я также [подгрузил в colab](https://colab.research.google.com/drive/1QvG4BRBDcV8LUZJZsEMJcSR2eY2YwL7g#scrollTo=M07EPoeWf7P3&uniqifier=1)
+* Проект я также [подгрузил в colab](https://colab.research.google.com/drive/1QvG4BRBDcV8LUZJZsEMJcSR2eY2YwL7g?usp=sharing)
